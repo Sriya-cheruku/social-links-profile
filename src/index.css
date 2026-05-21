@@ -38,14 +38,15 @@ body {
   display: block;
   margin: 0 auto;
 }
- h1{
+ h2{
   color: var(--white);
   margin-bottom: 5%;
 }
- p{
+ h5.bio{
   color: var(--white);
+  /* font-size: 18px; */
  }
- p.location{
+ h4.location{
   color: var(--green);
   margin-bottom: 10%;
  }
