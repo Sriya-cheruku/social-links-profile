@@ -37,10 +37,14 @@ body {
   object-fit: cover;
   display: block;
   margin: 0 auto;
+  gap: 8px;
+ 
 }
- h2{
+ h3.name{
   color: var(--white);
   margin-bottom: 5%;
+  /* font-size: 15px; */
+  margin-top: 20px;
 }
  h5.bio{
   color: var(--white);
@@ -49,6 +53,8 @@ body {
  h4.location{
   color: var(--green);
   margin-bottom: 10%;
+  /* font-size: 15px; */
+
  }
 .social-links {
   list-style: none;
