@@ -42,18 +42,18 @@ body {
 }
  h3.name{
   color: var(--white);
-  margin-bottom: 5%;
-  /* font-size: 15px; */
-  margin-top: 20px;
+  margin-bottom: 3%;
+  font-size: 26px;
+  margin-top: 25px;
 }
  h5.bio{
   color: var(--white);
-  /* font-size: 18px; */
+  font-size: 12px;
  }
  h4.location{
   color: var(--green);
   margin-bottom: 10%;
-  /* font-size: 15px; */
+  font-size: 16px;
 
  }
 .social-links {
@@ -61,7 +61,7 @@ body {
   margin-top: 24px;
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 17px;
 }
 
 .social-link {
@@ -73,6 +73,7 @@ body {
   border-radius: 8px;
   font-weight: 600;
   cursor: pointer;
+  font-size: 14px;
   transition: background-color 0.2s ease, color 0.2s ease;
 }
 
