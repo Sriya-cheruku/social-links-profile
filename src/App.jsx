@@ -4,9 +4,9 @@ export default function App() {
      <main className="card">
       
       <img src="/images/avatar-jessica.jpeg" alt="essica Randall "  className="avatar"/> 
-      <h3 className="name">Jessica randall</h3>
-      <h4 className="location">London, United kingdom</h4>
-      <h5 className="bio">"Front-end developer and avid reader."</h5>
+      <h3 className="name">Jessica Randall</h3>
+      <h4 className="location">London, United Kingdom</h4>
+      <p className="bio">"Front-end developer and avoid reader."</p>
       <ul className="social-links">
         <li><a href="#" className="social-link">GitHub</a></li>
         <li><a href="#" className="social-link">Frontend Mentor</a></li>
